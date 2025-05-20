@@ -1,0 +1,12 @@
+{
+  "name": "count-sentence-js-001",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test":   "jasmine",                         
+    "answer": "jasmine spec/sentence.spec.js"   
+  },
+  "devDependencies": {
+    "jasmine": "^5.0.0"
+  }
+}
