@@ -46,6 +46,15 @@ countSentences("")
 // => 0
 ```
 
+To run the specs follow these commands:
+- first install the required node modules to run the tests
+````npm install````
+- to run in the command line run
+````npm test -- spec/sentence.spec.js````
+### or, via the custom script in package.json
+````npm run answer````
+
+
 ## Resources
 
 * [MDN](https://developer.mozilla.org/) - [JavaScript Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
